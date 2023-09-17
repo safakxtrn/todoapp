@@ -11,7 +11,8 @@ Run the following commands respectively to generate node_modules, android and io
 
 ```
 npm install
-
+```
+```
 npx react-native eject
 ```
 
@@ -19,6 +20,9 @@ npx react-native eject
 ### ScreenShots
 
 ![](/img/ScreenShot.png "")
+
 ![](/img/ScreenShot_1.png "")
+
 ![](/img/ScreenShot_2.png "")
+
 ![](/img/ScreenShot_3.png "")
